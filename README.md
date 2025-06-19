@@ -25,10 +25,11 @@ I'm a passionate and dedicated **web developer** with a strong academic backgrou
 
 | Project | Description | Stack | Demo |
 |--------|-------------|-------|------|
-| **SoundPulse** | An online radio SPA built with React — clean UI, minimalistic UX | React, CSS | [GitHub](https://github.com/marrozhkova/SoundPulse) |
-| **Neomorphism UI** | Stylish UI kit exploring glassmorphism and neumorphism principles | HTML, CSS | [Live](https://neoromorphism.vercel.app/) |
-| **Eurovision-UA** | Informational site about Ukrainian winners of Eurovision | HTML, CSS, React | [GitHub](https://github.com/marrozhkova/eurovision-ua) |
+| **SoundPulse** | An online radio SPA built with React — clean UI, minimalistic UX | React, CSS | [Live](https://sound-pulse.vercel.app/) |
 | **Portfolio** | My personal responsive portfolio to showcase design/dev work | React, JS, CSS | [Live](https://marrozhkova-portfolio.vercel.app/) |
+| **Neomorphism UI** | Stylish UI kit exploring glassmorphism and neumorphism principles | HTML, CSS | [Live](https://neoromorphism.vercel.app/) |
+| **Eurovision-UA** | Informational site about Ukrainian winners of Eurovision | HTML, CSS, React | [Live](https://eurovision-ua.vercel.app/) |
+
 
 > More projects in progress: AI Quiz App, online-shop 🚧
 
@@ -49,7 +50,7 @@ I'm a passionate and dedicated **web developer** with a strong academic backgrou
 - 🌐 [Portfolio Website](https://marrozhkova-portfolio.vercel.app/)
 - 🐙 [GitHub](https://github.com/marrozhkova)
 - 📫 **Email**: mar.rozhkova@gmail.com  
-- 🌍 Languages: Ukrainian 🇺🇦, German 🇩🇪 (C1), English 🇬🇧 (B2+), Russian 🇷🇺
+- 🌍 Languages: Ukrainian 🇺🇦, German 🇩🇪 (C1), English 🇬🇧 (B2+)
 
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marrozhkova&show_icons=true&locale=en&layout=compact" alt="marrozhkova" /></p>
