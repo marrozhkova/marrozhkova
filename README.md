@@ -29,6 +29,7 @@ I'm a passionate and dedicated **web developer** with a strong academic backgrou
 | **Portfolio** | My personal responsive portfolio to showcase design/dev work | React, JS, CSS | [Live](https://marrozhkova-portfolio.vercel.app/) |
 | **Neomorphism UI** | Stylish UI kit exploring glassmorphism and neumorphism principles | HTML, CSS | [Live](https://neoromorphism.vercel.app/) |
 | **Eurovision-UA** | Informational site about Ukrainian winners of Eurovision | HTML, CSS, React | [Live](https://eurovision-ua.vercel.app/) |
+| **Quizzly Bears** | An interactive quiz application | React Native, TS, Socket.io  | [Live](https://quizzly-bears.vercel.app/) |
 
 
 > More projects in progress: AI Quiz App, online-shop 🚧
